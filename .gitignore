@@ -1,0 +1,17 @@
+# Compiled files
+*.obj
+*.exe
+*.lst
+*.map
+
+# Backup files
+*.bak
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
