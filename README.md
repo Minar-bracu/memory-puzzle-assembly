@@ -120,8 +120,6 @@ This is a console-based memory puzzle game where players flip cards to find matc
                         ╚══════════════════════════════╝
 ```
 
-> 💡 **To add real screenshots:** Run the game in emu8086, press `Alt + Print Screen` to capture, and save as `screenshot.png` in this folder.
-
 ## 🧩 Technical Highlights
 
 - **Pure 8086 Assembly** - No high-level language dependencies
